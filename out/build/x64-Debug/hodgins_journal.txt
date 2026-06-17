@@ -1,0 +1,278 @@
+========================================
+DAY 1 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:    144
+  Letters delivered:  100
+  Business trips:     0
+  Failed tasks:       1
+
+  EMPLOYEE PROGRESS:
+  - Benedict Blue:
+      Letters written:   0
+      Letters delivered: 59
+      Business trips:    0
+  - Erica Brown:
+      Letters written:   100
+      Letters delivered: 0
+      Business trips:    0
+  - Iris Cannary:
+      Letters written:   44
+      Letters delivered: 0
+      Business trips:    0
+  - Roland:
+      Letters written:   0
+      Letters delivered: 41
+      Business trips:    0
+
+  EMPLOYEES ON TRIP:
+  - Violet Evergarden
+  - Cattleya Baudelaire
+
+  FAILED TASKS:
+  - Print request: 29 letter(s) (remaining: 29 units)
+
+========================================
+
+========================================
+DAY 2 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:    144
+  Letters delivered:  85
+  Business trips:     0
+  Failed tasks:       0
+
+  EMPLOYEE PROGRESS:
+  - Benedict Blue:
+      Letters written:   0
+      Letters delivered: 52
+      Business trips:    0
+  - Erica Brown:
+      Letters written:   80
+      Letters delivered: 0
+      Business trips:    0
+  - Iris Cannary:
+      Letters written:   64
+      Letters delivered: 0
+      Business trips:    0
+  - Roland:
+      Letters written:   0
+      Letters delivered: 33
+      Business trips:    0
+
+  EMPLOYEES ON TRIP:
+  - Violet Evergarden
+  - Cattleya Baudelaire
+
+  FAILED TASKS:
+  None
+
+========================================
+
+========================================
+DAY 3 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:    115
+  Letters delivered:  85
+  Business trips:     1
+  Failed tasks:       0
+
+  EMPLOYEE PROGRESS:
+  - Benedict Blue:
+      Letters written:   0
+      Letters delivered: 54
+      Business trips:    0
+  - Erica Brown:
+      Letters written:   60
+      Letters delivered: 0
+      Business trips:    0
+  - Iris Cannary:
+      Letters written:   55
+      Letters delivered: 0
+      Business trips:    0
+  - Roland:
+      Letters written:   0
+      Letters delivered: 31
+      Business trips:    0
+  - Violet Evergarden:
+      Letters written:   0
+      Letters delivered: 0
+      Business trips:    1
+      Trip locations:    Leiden
+
+  EMPLOYEES ON TRIP:
+  - Cattleya Baudelaire
+
+  FAILED TASKS:
+  None
+
+========================================
+
+========================================
+DAY 4 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:    148
+  Letters delivered:  244
+  Business trips:     0
+  Failed tasks:       1
+
+  EMPLOYEE PROGRESS:
+  - Benedict Blue:
+      Letters written:   0
+      Letters delivered: 151
+      Business trips:    0
+  - Erica Brown:
+      Letters written:   42
+      Letters delivered: 0
+      Business trips:    0
+  - Iris Cannary:
+      Letters written:   10
+      Letters delivered: 0
+      Business trips:    0
+  - Roland:
+      Letters written:   0
+      Letters delivered: 93
+      Business trips:    0
+  - Violet Evergarden:
+      Letters written:   96
+      Letters delivered: 0
+      Business trips:    0
+
+  EMPLOYEES ON TRIP:
+  - Cattleya Baudelaire
+
+  FAILED TASKS:
+  - Delivery request: 31 letter(s) (remaining: 31 units)
+
+========================================
+
+========================================
+DAY 5 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:    98
+  Letters delivered:  97
+  Business trips:     0
+  Failed tasks:       0
+
+  EMPLOYEE PROGRESS:
+  - Benedict Blue:
+      Letters written:   0
+      Letters delivered: 66
+      Business trips:    0
+  - Erica Brown:
+      Letters written:   26
+      Letters delivered: 0
+      Business trips:    0
+  - Iris Cannary:
+      Letters written:   5
+      Letters delivered: 0
+      Business trips:    0
+  - Roland:
+      Letters written:   0
+      Letters delivered: 31
+      Business trips:    0
+  - Violet Evergarden:
+      Letters written:   67
+      Letters delivered: 0
+      Business trips:    0
+
+  EMPLOYEES ON TRIP:
+  - Cattleya Baudelaire
+
+  FAILED TASKS:
+  None
+
+========================================
+
+========================================
+DAY 6 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:    90
+  Letters delivered:  71
+  Business trips:     0
+  Failed tasks:       0
+
+  EMPLOYEE PROGRESS:
+  - Benedict Blue:
+      Letters written:   0
+      Letters delivered: 52
+      Business trips:    0
+  - Erica Brown:
+      Letters written:   28
+      Letters delivered: 0
+      Business trips:    0
+  - Iris Cannary:
+      Letters written:   7
+      Letters delivered: 0
+      Business trips:    0
+  - Roland:
+      Letters written:   0
+      Letters delivered: 19
+      Business trips:    0
+  - Violet Evergarden:
+      Letters written:   55
+      Letters delivered: 0
+      Business trips:    0
+
+  EMPLOYEES ON TRIP:
+  - Cattleya Baudelaire
+
+  FAILED TASKS:
+  None
+
+========================================
+
+========================================
+DAY 7 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:    324
+  Letters delivered:  110
+  Business trips:     0
+  Failed tasks:       4
+
+  EMPLOYEE PROGRESS:
+  - Benedict Blue:
+      Letters written:   0
+      Letters delivered: 64
+      Business trips:    0
+  - Erica Brown:
+      Letters written:   94
+      Letters delivered: 0
+      Business trips:    0
+  - Iris Cannary:
+      Letters written:   69
+      Letters delivered: 0
+      Business trips:    0
+  - Roland:
+      Letters written:   0
+      Letters delivered: 46
+      Business trips:    0
+  - Violet Evergarden:
+      Letters written:   161
+      Letters delivered: 0
+      Business trips:    0
+
+  EMPLOYEES ON TRIP:
+  - Cattleya Baudelaire
+
+  FAILED TASKS:
+  - Print request: 58 letter(s) (remaining: 58 units)
+  - Print request: 3 letter(s) (remaining: 3 units)
+  - Delivery request: 42 letter(s) (remaining: 42 units)
+  - Delivery request: 8 letter(s) (remaining: 8 units)
+
+========================================
+

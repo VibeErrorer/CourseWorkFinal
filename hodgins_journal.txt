@@ -1,0 +1,103 @@
+========================================
+DAY 1 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:   44
+  Letters delivered: 42
+  Business trips:    0
+  Failed (letters):  0
+    not printed:     0
+    not delivered:   0
+
+  EMPLOYEES ON TRIP:
+  - Violet Evergarden
+  - Cattleya Baudelaire
+
+  FAILED LETTERS (today, carried to next day):
+  None
+
+========================================
+
+========================================
+DAY 2 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:   0
+  Letters delivered: 0
+  Business trips:    0
+  Failed (letters):  0
+    not printed:     0
+    not delivered:   0
+
+  EMPLOYEES ON TRIP:
+  - Violet Evergarden
+  - Cattleya Baudelaire
+
+  FAILED LETTERS (today, carried to next day):
+  None
+
+========================================
+
+========================================
+DAY 3 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:   0
+  Letters delivered: 0
+  Business trips:    0
+  Failed (letters):  0
+    not printed:     0
+    not delivered:   0
+
+  EMPLOYEES ON TRIP:
+  - Violet Evergarden
+  - Cattleya Baudelaire
+
+  FAILED LETTERS (today, carried to next day):
+  None
+
+========================================
+
+========================================
+DAY 4 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:   0
+  Letters delivered: 0
+  Business trips:    1
+  Failed (letters):  0
+    not printed:     0
+    not delivered:   0
+
+  EMPLOYEES ON TRIP:
+  - Cattleya Baudelaire
+
+  FAILED LETTERS (today, carried to next day):
+  None
+
+========================================
+
+========================================
+DAY 5 REPORT
+========================================
+
+  STATISTICS:
+  Letters written:   0
+  Letters delivered: 0
+  Business trips:    0
+  Failed (letters):  0
+    not printed:     0
+    not delivered:   0
+
+  EMPLOYEES ON TRIP:
+  - Cattleya Baudelaire
+
+  FAILED LETTERS (today, carried to next day):
+  None
+
+========================================
+
