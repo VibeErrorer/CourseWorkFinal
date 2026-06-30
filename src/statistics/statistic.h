@@ -26,7 +26,6 @@ public:
     int lettersDelivered = 0;
     int businessTrip = 0;
 
-    // ИСПРАВЛЕНО: был невалидный синтаксис std::vector[std::string](std::string)
     std::vector<std::string> employeesOnTrip;
     std::vector<std::string> failedTask;
     bool violetTraveled = false;

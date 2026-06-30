@@ -10,7 +10,7 @@
 #include "employees/boss.h"
 #include "employees/employee.h"
 #include "events/event.h"
-#include "statistics/statistic.h"  // ← ДОБАВЛЕНО
+#include "statistics/statistic.h"
 
 struct CompareEvents
 {
@@ -26,7 +26,7 @@ class Company
     std::priority_queue<std::unique_ptr<Event>,
         std::vector<std::unique_ptr<Event>>, CompareEvents> events;
 
-    Statistic statistic;  // ← ДОБАВЛЕНО: живёт всё время работы программы
+    Statistic statistic;  //живёт всё время работы программы
 
 public:
     Company(std::string companyName, std::string bossName, std::string bossSurname);

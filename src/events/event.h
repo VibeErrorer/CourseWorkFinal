@@ -34,7 +34,6 @@ public:
     explicit PrintRequest(int mails) : Event(TypeEvent::PrintRequest, mails) {}
     std::string GetDescription() const override;
 
-    // ← ДОБАВЛЕНО
     std::unique_ptr<Event> CreateWithQuantity(int newQuantity) const override {
         return std::make_unique<PrintRequest>(newQuantity);
     }
@@ -46,7 +45,6 @@ public:
     explicit DeliveryRequest(int mails) : Event(TypeEvent::DeliveryRequest, mails) {}
     std::string GetDescription() const override;
 
-    // ← ДОБАВЛЕНО
     std::unique_ptr<Event> CreateWithQuantity(int newQuantity) const override {
         return std::make_unique<DeliveryRequest>(newQuantity);
     }
