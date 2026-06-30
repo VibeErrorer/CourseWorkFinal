@@ -37,10 +37,13 @@ void Company::AddEvent(std::unique_ptr<Event> event) {
 }
 
 std::unique_ptr<Event> Company::TakeNextEvent() {
+    if (events.empty()) {
+        return nullptr;
+    }
     std::unique_ptr<Event> nextEvent = std::move(
-        const_cast<std::unique_ptr<Event>&>(events.top()));
-    events.pop();
-    return nextEvent;
+            const_cast<std::unique_ptr<Event>&>(events.top()));
+        events.pop();
+        return nextEvent;
 }
 
 void Company::SortByRole() {
