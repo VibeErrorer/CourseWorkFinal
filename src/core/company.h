@@ -31,7 +31,8 @@ class Company
 public:
     Company(std::string companyName, std::string bossName, std::string bossSurname);
     void SetBoss(std::unique_ptr<Boss> newBoss) { boss = std::move(newBoss); }
-    Boss* const GetBoss() const { return boss.get(); }
+    Boss& GetBoss() { return *boss; }
+    const Boss& GetBoss() const { return *boss; }
 
     std::string GetName() const;
     std::list<std::unique_ptr<Employee>>& GetEmployees();

@@ -17,16 +17,16 @@ int main()
 
     Company company{ "C.H. Company", "Claudia", "Hodgins" };
 
-    company.GetBoss()->Hire(std::make_unique<AutoMemoryDoll>("Violet", "Evergarden", minutes(2), milliseconds(0)));
-    company.GetBoss()->Hire(std::make_unique<AutoMemoryDoll>("Cattleya", "Baudelaire", minutes(3), milliseconds(0)));
-    company.GetBoss()->Hire(std::make_unique<AutoMemoryDoll>("Erica", "Brown", minutes(4), milliseconds(0)));
-    company.GetBoss()->Hire(std::make_unique<AutoMemoryDoll>("Iris", "Cannary", minutes(4), milliseconds(0)));
-    company.GetBoss()->Hire(std::make_unique<MailMan>("Benedict", "Blue", minutes(2), milliseconds(0)));
-    company.GetBoss()->Hire(std::make_unique<MailMan>("Roland", "", minutes(3), milliseconds(0)));
+    company.GetBoss().Hire(std::make_unique<AutoMemoryDoll>("Violet", "Evergarden", minutes(2), milliseconds(0)));
+    company.GetBoss().Hire(std::make_unique<AutoMemoryDoll>("Cattleya", "Baudelaire", minutes(3), milliseconds(0)));
+    company.GetBoss().Hire(std::make_unique<AutoMemoryDoll>("Erica", "Brown", minutes(4), milliseconds(0)));
+    company.GetBoss().Hire(std::make_unique<AutoMemoryDoll>("Iris", "Cannary", minutes(4), milliseconds(0)));
+    company.GetBoss().Hire(std::make_unique<MailMan>("Benedict", "Blue", minutes(2), milliseconds(0)));
+    company.GetBoss().Hire(std::make_unique<MailMan>("Roland", "", minutes(3), milliseconds(0)));
 
     company.SortByRole();
 
-    auto& boss = *company.GetBoss();
+    auto& boss = company.GetBoss();
 
     boss.AddTask(std::make_unique<PrintRequest>(10));
     boss.AddTask(std::make_unique<PrintRequest>(25));

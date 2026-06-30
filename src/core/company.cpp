@@ -70,17 +70,17 @@ void Company::Simulate(int day) {
     const auto dayEnd = dayStart + workDayRealDuration;
 
     while (std::chrono::steady_clock::now() < dayEnd) {
-        GetBoss()->ProcessSimulationTick(statistic);
+        GetBoss().ProcessSimulationTick(statistic);
         std::this_thread::sleep_for(std::chrono::milliseconds(5));
     }
 
     for (auto& employee : employees) {
         employee->UpdateBusyStatus();
     }
-    GetBoss()->ProcessSimulationTick(statistic);
+    GetBoss().ProcessSimulationTick(statistic);
 
-    GetBoss()->CollectFailedTasks(statistic);
-    GetBoss()->WriteDailyStatistic(day, statistic);
+    GetBoss().CollectFailedTasks(statistic);
+    GetBoss().WriteDailyStatistic(day, statistic);
 
     std::cout << "=== Day " << day << " complete. Report: hodgins_journal.txt ===" << std::endl;
 }
