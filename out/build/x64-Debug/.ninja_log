@@ -68,3 +68,10 @@
 452	635	8044710859692465	CHCompany.exe	ee623b4cc3decc7
 27	765	8044716931969572	CMakeFiles/CHCompany.dir/src/main.cpp.obj	5e8d018b9c9fd456
 766	926	8044716939369263	CHCompany.exe	ee623b4cc3decc7
+45	773	8045234784749178	CMakeFiles/CHCompany.dir/src/statistics/statistic.cpp.obj	762e590c580ab86f
+26	816	8045234784546883	CMakeFiles/CHCompany.dir/src/main.cpp.obj	5e8d018b9c9fd456
+38	832	8045234784676202	CMakeFiles/CHCompany.dir/src/employees/boss.cpp.obj	b882309bfd73a2c0
+32	854	8045234784607279	CMakeFiles/CHCompany.dir/src/core/company.cpp.obj	d41c89baaa0e89d
+854	1105	8045234792835932	CHCompany.exe	ee623b4cc3decc7
+16	501	8045237919352490	CMakeFiles/CHCompany.dir/src/core/company.cpp.obj	d41c89baaa0e89d
+502	628	8045237924209391	CHCompany.exe	ee623b4cc3decc7

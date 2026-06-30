@@ -16,9 +16,9 @@ bool CompareEvents::operator()(const std::unique_ptr<Event>& first,
 }
 
 Company::Company(std::string companyName, std::string bossName, std::string bossSurname)
-    : name{ std::move(companyName) }
-    , boss{ std::make_unique<Boss>(bossName, bossSurname, *this) }
+    : name{ std::move(companyName) } 
 {
+    boss = std::make_unique<Boss>(bossName, bossSurname, *this);
 }
 
 std::string Company::GetName() const { return name; }
